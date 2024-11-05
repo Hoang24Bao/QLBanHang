@@ -1,0 +1,8 @@
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.csproj.AssemblyReference.cache
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.frmDangNhap.resources
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.Forms.frmHoaDon.resources
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.csproj.GenerateResource.cache
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.AssemblyInfoInputs.cache
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.AssemblyInfo.cs
+C:\Users\HOANG BAO\Documents\LTTQ\BT31(ktra)\QLBanHang\obj\Debug\net5.0-windows7.0\QLBanHang.csproj.CoreCompileInputs.cache
